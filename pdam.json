@@ -1,0 +1,29 @@
+[
+    {
+        "lokasi": "Jakarta",
+        "nama": "admin",
+        "nomor": "200",
+        "gol": "B",
+        "pakai": "100",
+        "tarif": 860000,
+        "total": 868595
+    },
+    {
+        "lokasi": "Jakarta",
+        "nama": "admin",
+        "nomor": "200",
+        "gol": "B",
+        "pakai": "100",
+        "tarif": 860000,
+        "total": 868595
+    },
+    {
+        "lokasi": "Jakarta",
+        "nama": "user",
+        "nomor": "60",
+        "gol": "C",
+        "pakai": "1000000",
+        "tarif": 9800000000,
+        "total": 9800008595
+    }
+]
